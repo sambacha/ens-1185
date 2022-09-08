@@ -16,6 +16,8 @@
   },
   "devDependencies": {
     "hardhat": "^2.11.1",
-    "jest": "^29.0.2"
+    "jest": "^29.0.2",
+    "serve": "^14.0.1",
+    "serve-handler": "^6.1.3"
   }
 }
